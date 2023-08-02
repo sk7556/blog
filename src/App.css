@@ -1,10 +1,55 @@
+.Modal {
+  margin-top : 30px;
+  padding : 20px;
+  background : #eee;
+  text-align : left;
+}
+
+.봇치 {
+  color: #d57719;
+  text-size-adjust: 20px;
+}
+
+.료 {
+  color : skyblue;
+}
+
+.니지카 {
+  color : yellow;
+}
+
+.키타 {
+  color : lightcoral;
+}
+
 .App {
   text-align: center;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.list {
+  padding-left: 20px;
+  padding-bottom : 20px;
+  text-align : left;
+  border-bottom : 1px solid grey;
+  margin : 30px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.black-nav {
+  display: flex;
+  background: black;
+  width : 100%;
+  color : white;
+  padding-left: 20px;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
