@@ -6,7 +6,7 @@ function Modal(props){
     <div className= {props.결속밴드}>
       <h4>{ props.결속밴드 }</h4>
       <p>날짜</p>
-      <p>상세내용  </p>
+      <p>상세내용 </p>
     </div>
   )
 }
