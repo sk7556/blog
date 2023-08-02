@@ -14,7 +14,7 @@ function Modal(props){
 function App() {
 
   let[modal, setModal] = useState(false);
-  let[결속밴드, setSub] = useState(['봇치치', '니지카', '료', '키타']);
+  let[결속밴드, setSub] = useState(['봇치치치', '니지카', '료', '키타']);
   let[like, setLike] = useState([0,0,0]);
   let[title, setTitle] = useState(0);
   let[inText, setIntext] = useState("");
